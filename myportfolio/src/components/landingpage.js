@@ -8,7 +8,7 @@ class Landing extends Component {
             <div style={{width: '100%', margin: 'auto'}}>
                 <Grid className="Landing-grid">
                     <Cell col={12}>
-                        <img src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/47683582_10158124645162907_4726016123701559296_n.jpg?_nc_cat=107&ccb=2&_nc_sid=7aed08&_nc_ohc=K5Ji5DNIASQAX9gtLKM&_nc_ht=scontent.ftpa1-1.fna&oh=41e96e1b960b11b72775f59610d1e0fe&oe=5FDE276A"
+                        <img src="https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/15193477_10155562553792907_1716324699997995270_n.jpg?_nc_cat=104&ccb=2&_nc_sid=7aed08&_nc_ohc=NBFxTKp-m78AX8DzGZ5&_nc_ht=scontent.ftpa1-2.fna&oh=ceb0e6197fcd6fe6158d35c9b35ce0dc&oe=5FDA7669"
                          alt="samaer"
                          className="samer-img"
                         />
