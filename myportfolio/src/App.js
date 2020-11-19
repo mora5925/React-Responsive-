@@ -1,7 +1,12 @@
-import React, { component } from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
-function App() {
+import Main from './components/main';
+
+
+
+class App extends Component {
+  render () {
   return (
     <div className="demo-big-content">
     <Layout>
@@ -23,10 +28,11 @@ function App() {
         </Drawer>
         <Content>
             <div className="page-content" />
+            <Main/>
         </Content>
     </Layout>
 </div>
   );
-}
+}}
 
 export default App;
